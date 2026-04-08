@@ -80,40 +80,24 @@ The system follows a Client-Server Architecture:
 ---
 
 ## 📂 Project Structure
-
+```
 BookSwapHub/
-
 │
-
 ├── frontend/
-
 │ ├── index.html
-
 │ ├── styles.css
-
 │ └── script.js
-
 │
-
 ├── backend/
-
-
 │ ├── server.js
-
 │ ├── routes/
-
 │ ├── models/
-
 │ └── controllers/
-
 │
-
 ├── .env
-
 ├── package.json
-
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation & Setup
