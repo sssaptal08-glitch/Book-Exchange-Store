@@ -49,6 +49,7 @@ This system reduces the cost of purchasing books and encourages a sharing econom
 ## 🛠️ Technology Stack
 
 ### Frontend:
+- PHP
 - HTML  
 - CSS  
 - JavaScript  
